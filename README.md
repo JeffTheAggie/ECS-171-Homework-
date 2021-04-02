@@ -1,2 +1,2 @@
 # ECS-171-Homework-
-All of the homework sets for my Machine Learning class, ECS 171
+All of the homework and discussion sets for my Machine Learning class, ECS 171
